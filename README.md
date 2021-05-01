@@ -1,2 +1,2 @@
-# farham-smells
+# farham-smells-nice
 Markham does too
